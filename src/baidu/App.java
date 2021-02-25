@@ -12,7 +12,7 @@ public class App {
 //      String url = "https://aip.baidubce.com/rest/2.0/ocr/v1/formula"; //公式识别 剩余免费1000次
 //      String url = "https://aip.baidubce.com/rest/2.0/ocr/v1/doc_analysis"; //试卷分析与识别 剩余免费1000次
 		
-		BaiduAi.imageRecognition(url, "C:\\Users\\zhwang\\Desktop\\2.png");
+		BaiduAi.imageRecognition(url, "C:\\Users\\zhwang\\Desktop\\111.jpg");
 		
 		System.out.println("完成");
 	}
